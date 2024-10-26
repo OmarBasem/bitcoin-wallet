@@ -9,6 +9,8 @@ This project is composed of 2 sub-projects:
 - Backend server: implemented under `Backend` directory
 - Frontend mobile apps: implemented under `MobileApp` directory
 
+https://github.com/user-attachments/assets/ee5d78bf-e5f9-440f-a74c-65c648c76c14
+
 ## Project Setup
 
 ### Database Setup
